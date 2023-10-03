@@ -15,7 +15,23 @@ html{
     background: linear-gradient(122deg, rgba(48,47,73,1) 0%, rgba(175,175,255,1) 35%, rgba(80,128,138,1) 100%);
     background-repeat: no-repeat;
     background-size: cover;
-    height: max-content;
+    height: 100%;
+}
+.NavTittle{
+    color: green;
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 1rem;
+    margin: 12px;
+    background-color: rgb(119, 0, 255);
+    border-radius: 25px;
+}
+.NavTittle:hover{
+    background-color: black;
+}
+a{
+    color: black;
+    text-decoration: none;
 }
 body{
     background-color: rgba(240, 248, 255, 0);
