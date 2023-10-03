@@ -15,7 +15,7 @@ html{
     background: linear-gradient(122deg, rgba(48,47,73,1) 0%, rgba(175,175,255,1) 35%, rgba(80,128,138,1) 100%);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    height: max-content;
 }
 body{
     background-color: rgba(240, 248, 255, 0);

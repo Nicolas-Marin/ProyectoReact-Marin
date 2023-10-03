@@ -1,0 +1,17 @@
+.ItemImg{
+    width: 200px;
+}
+.CardItem{
+    border-radius: 15px;
+    background-color: white;
+    font-weight: bolder;
+    color: blakc;
+}
+.ItemHeader{
+    font-size: 1.3rem;
+}
+.Option{
+    background-color: orange;
+    padding: 1rem;
+    border-radius: 15px;
+}
