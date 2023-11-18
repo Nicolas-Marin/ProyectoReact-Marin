@@ -1,6 +1,13 @@
 .logo{
-    width: 80px;
+    width: 50px;
     filter: drop-shadow(1px 1px 1px black);
+    padding: 5px;
+}
+.cart-space{
+    margin: 10px;
+    background-color: azure;
+    border-radius: 20px;
+    padding: 5px;
 }
 .centrado{
     display: flex;

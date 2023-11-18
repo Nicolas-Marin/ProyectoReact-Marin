@@ -1,8 +1,11 @@
 import './Item.css'
 import '../../asyncMook'
 import { Link } from 'react-router-dom'
+import { getFirestore } from 'firebase/firestore'
 
 const Item = ({id, name, img, price, stock}) =>{
+    const db = getFirestore()
+    const items = useItems()
     return(
         <article className='CardItem'>
             <header className='Header'>

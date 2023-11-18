@@ -22,7 +22,7 @@ const products =[
         name: 'GTX 1660ti',
         price: '256.200',
         category:'graficasgtx',
-        img:'https://smarts.com.ar/media/catalog/product/cache/e2fffb2b85fe85187f9dedbb6434d061/g/v/gv-n166toc-6gd_ok_1.jpg',
+        img:'https://static.gigabyte.com/StaticFile/Image/Global/30623baf40e8e9dec2e341ed03fbad04/Product/23151/Png',
         stock: 12,
         desciption:'GTX 1660ti FullBox'
     }
